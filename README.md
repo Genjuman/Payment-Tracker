@@ -19,6 +19,7 @@ Here is a list of my assumptions:
 	9) Both for displaying and saving to file, currencies with zero amount are excluded
 
 How to run my program:
+
 	Via command line:
 		1) Navigate to "PaymentTracker\dist\" directory.
 		2) input: "java -jar PaymentTracker.jar"
