@@ -20,9 +20,10 @@ Here is a list of my assumptions:
 
 How to run my program:
 
-	Via command line:
-		1) Navigate to "PaymentTracker\dist\" directory.
-		2) input: "java -jar PaymentTracker.jar"
-
 	via some IDE:
 		1) simply by runnig /src/core/Run.java
+
+	Via command line (after building):
+		1) Run your command line
+		2) Navigate to directory, where jar file appears. (For example Netbeans IDE "PaymentTracker\dist\" directory.)
+		3) input: "java -jar PaymentTracker.jar"
